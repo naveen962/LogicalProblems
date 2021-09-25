@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.exe
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.deps.json
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.json
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.dll
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.pdb
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.dll
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.pdb
+C:\Users\INDIA\source\repos\CoupenNumbers\CoupenNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.genruntimeconfig.cache
